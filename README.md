@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">• 🌐 Web Application Developer with an IoT & Robotics background<br>• 💻 Learning Full-Stack Web Development (frontend, backend & APIs)<br>• 🔧 Integrating web dashboards with IoT devices and real-time data<br>• 🤖 Exploring AI, ML & Deep Learning for intelligent systems<br>• 🚀 Focused on real-world, scalable projects<br>• 🤝 Open to internships & collaborations</p>
+<p align="left">•  Web Application Developer with an IoT & Robotics background<br>•  Learning Full-Stack Web Development (frontend, backend & APIs)<br>•  Integrating web dashboards with IoT devices and real-time data<br>•  Exploring AI, ML & Deep Learning for intelligent systems<br>•  Focused on real-world, scalable projects<br>•  Open to internships & collaborations</p>
 
 ###
 
