@@ -11,7 +11,7 @@ University of Frontier Technology, Bangladesh
 
 <h2 align="left">About me</h2>
 
-<img align="right" height="200" src="assets/profile.gif" />
+<img align="right" height="180" src="assets/profile.gif" />
 
 <p align="left">
 • Web Application Developer with an IoT & Robotics background<br>
