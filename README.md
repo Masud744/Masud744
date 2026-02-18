@@ -3,13 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=masud744&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+
 <p align="left">
 B.Sc.(Engg.) in IoT & Robotics Engineering<br>
 University of Frontier Technology, Bangladesh
 </p>
 
+<hr>
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 <img align="right" height="180" src="assets/profile.gif" />
 
@@ -22,6 +24,7 @@ University of Frontier Technology, Bangladesh
 • Open to internships & collaborations
 </p>
 
+<hr>
 
 <h2 align="left">Skills</h2>
 
@@ -43,6 +46,12 @@ University of Frontier Technology, Bangladesh
   <img src="https://img.shields.io/badge/ESPRESSIF-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 </p>
 
+<h3 align="left">Automation & IoT Platforms</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
 <h3 align="left">Databases</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -51,48 +60,54 @@ University of Frontier Technology, Bangladesh
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-<h3 align="left">Automation & IoT Platforms</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
 <h3 align="left">Hardware & OS</h3>
-<p align="leftr">
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
+<h3 align="left">DevOps & Visualization</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+</p>
+
+
+<h3 align="left">AI / Machine Learning</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+
+<h2 align="left">GitHub Activity</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masud744&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masud744&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=masud744&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masud744&layout=compact&theme=dark" height="150"/>
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masud744/masud744/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masud744/masud744/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/masud744/masud744/output/pacman-contribution-graph.svg">
 </picture>
 
+<hr>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shahriar-alom-masud">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/>
-  </a>
-  <a href="mailto:shahriar0002@std.uftb.ac.bd">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"/>
-  </a>
-  <a href="https://wa.me/8801740071118">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52"/>
-  </a>
-  <a href="https://www.facebook.com/share/17eXZPb3cR/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52"/>
-  </a>
-  <a href="https://www.instagram.com/shahriar_alom_masud">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/>
-  </a>
-  <a href="https://www.youtube.com/@ShahriarAlomMasud">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52"/>
-  </a>
+<h2 align="left">Connect with Me</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/shahriar-alom-masud"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/></a>
+  <a href="mailto:shahriar0002@std.uftb.ac.bd"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"/></a>
+  <a href="https://wa.me/8801740071118"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52"/></a>
+  <a href="https://www.facebook.com/share/17eXZPb3cR/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52"/></a>
+  <a href="https://www.instagram.com/shahriar_alom_masud"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/></a>
+  <a href="https://www.youtube.com/@ShahriarAlomMasud"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52"/></a>
 </div>
