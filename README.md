@@ -13,9 +13,9 @@
 
 - **Role:** Embedded Systems & Edge AI Engineer <br>
 - **Education:** B.Sc. in IoT & Robotics Engineering — University of Frontier Technology, Bangladesh <br>
-- **Core Values:** Clarity, ownership, fault-tolerance, and continuous improvement <br>
+- **Currently:** Actively building systems and continuously developing myself <br>
 - **Open Source:** Author of **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on official **Arduino Library Manager** <br>
-- **Collaboration:** Open to high-impact IoT projects, Edge AI research & open-source contributions <br>
+- **Core Values:** Clarity, ownership, fault-tolerance, and continuous improvement <br>
 - **Contact:** [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) • Dhaka, Bangladesh <br>
 
 <br>
