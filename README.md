@@ -29,15 +29,15 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,pytorch&perline=9" height="60" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,pytorch&perline=9" height="75" />
 </a>
 <br/>
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=opencv,fastapi,supabase,postgres,firebase,sqlite,docker,aws,mqtt&perline=9" height="60" />
+<img src="https://skillicons.dev/icons?i=opencv,fastapi,supabase,postgres,firebase,sqlite,docker,aws,mqtt&perline=9" height="75" />
 </a>
 <br/>
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,git,linux,githubactions,postman&perline=9" height="60" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,git,linux,githubactions,postman&perline=9" height="75" />
 </a>
 
 </div>
@@ -162,20 +162,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=masud744&show_icons=true&bg_color=0d1117&title_color=90CAF9&text_color=E3F2FD&icon_color=4CAF50&border_color=1565C0&count_private=true&hide_border=false" alt="Masud's GitHub Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud744&layout=compact&bg_color=0d1117&title_color=90CAF9&text_color=E3F2FD&border_color=1565C0&hide_border=false" alt="Top Languages" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=masud744&background=0D1117&border=1565C0&stroke=1565C0&ring=4CAF50&fire=2196F3&currStreakNum=E3F2FD&sideNums=E3F2FD&currStreakLabel=90CAF9&sideLabels=90CAF9&dates=A5D6A7" alt="Masud's Streak Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masud744&bg_color=0d1117&color=90CAF9&line=4CAF50&point=E3F2FD&area_color=2196F3&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=1565C0" alt="Contribution Graph" width="95%"/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masud744&theme=github_dark&bg_color=0d1117&title_color=90CAF9&text_color=E3F2FD&border_color=1565C0&icon_color=4CAF50">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud744&theme=github_dark&bg_color=0d1117&title_color=90CAF9&text_color=E3F2FD&border_color=1565C0&icon_color=4CAF50">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masud744&theme=github_dark&bg_color=0d1117&title_color=90CAF9&text_color=E3F2FD&border_color=1565C0&icon_color=4CAF50">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masud744&theme=github_dark&bg_color=0d1117&title_color=90CAF9&text_color=E3F2FD&border_color=1565C0&icon_color=4CAF50">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud744&theme=github_dark&bg_color=0d1117&title_color=90CAF9&text_color=E3F2FD&border_color=1565C0&icon_color=4CAF50&utcOffset=6">
+<img height="169em" src="https://streak-stats.demolab.com/?user=masud744&background=0D1117&border=1565C0&stroke=1565C0&ring=4CAF50&fire=2196F3&currStreakNum=E3F2FD&sideNums=E3F2FD&currStreakLabel=90CAF9&sideLabels=90CAF9&dates=A5D6A7" alt="Masud's Streak Stats" />
 
 </div>
 
