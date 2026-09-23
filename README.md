@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Technical Skills & Tech Stack:
 
 <div align="center">
 
@@ -46,10 +46,20 @@
 
 </div>
 
+<br/>
+
+| Domain / Category | Technologies, Frameworks & Protocols |
+| :--- | :--- |
+| **💻 Programming Languages** | `C` &bull; `C++` &bull; `Python` &bull; `TypeScript` &bull; `JavaScript` &bull; `SQL` &bull; `Bash` |
+| **⚡ Embedded Systems & Firmware** | `ESP32` &bull; `ESP8266` &bull; `ESP32-CAM` &bull; `Raspberry Pi` &bull; `Arduino` &bull; `FreeRTOS` &bull; `Dual-Partition OTA Rollback` &bull; `Hardware Timers` &bull; `ISR` &bull; `NVS/EEPROM Flash` &bull; `Wi-Fi Provisioning` |
+| **📡 Protocols & Interfacing** | `LoRa (SX1278)` &bull; `MQTT` &bull; `UART` &bull; `SPI` &bull; `I2C` &bull; `1-Wire` &bull; `WebSockets` &bull; `Logic-Level Shifting` &bull; `Multi-Sensor Integration` &bull; `Relay & Motor Drivers` |
+| **🧠 Edge AI, TinyML & Vision** | `TinyML` &bull; `Edge AI` &bull; `ONNX Runtime` &bull; `OpenCV` &bull; `YOLOv8` &bull; `MediaPipe` &bull; `Explainable AI (TreeSHAP, Grad-CAM)` &bull; `PyTorch` &bull; `Scikit-learn` &bull; `Time-Series Forecasting` &bull; `LLM Integration` |
+| **☁️ Cloud, Backend & Databases** | `AWS` &bull; `FastAPI` &bull; `InfluxDB Cloud` &bull; `Supabase (PostgreSQL)` &bull; `Firebase Realtime DB` &bull; `SQLite` &bull; `React 18/19` &bull; `Tailwind CSS` &bull; `Vite` &bull; `Chart.js` |
+| **🛠️ DevOps, Tools & Automation** | `Git` &bull; `GitHub Actions (CI/CD)` &bull; `Docker` &bull; `Linux / Shell` &bull; `Postman` &bull; `n8n` &bull; `PlatformIO` &bull; `Arduino IDE` &bull; `PyInstaller` &bull; `Serial Debugging` |
 
 ---
 
-##  Featured Flagship Projects
+## 🌟 Featured Flagship Projects
 
 <table>
   <tr>
