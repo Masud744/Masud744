@@ -24,38 +24,54 @@
 
 ---
 
-## 💻 Technical Skills & Tech Stack:
+## 💻 Tech Stack & Technical Skills:
 
-<div align="center">
-
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,linux&perline=9" /></a>
-<br/>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,anaconda,ros,matlab,cmake,vscode&perline=9" /></a>
-<br/>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi,aws,supabase,postgres,firebase,sqlite,mongodb,mysql,nodejs&perline=9" /></a>
-<br/>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,docker,git,githubactions,postman&perline=9" /></a>
-<br/>
-<p align="center">
-  <img src="assets/icons/esp32.svg" height="48" width="48" alt="ESP32" />&nbsp;&nbsp;
-  <img src="assets/icons/platformio.svg" height="48" width="48" alt="PlatformIO" />&nbsp;&nbsp;
-  <img src="assets/icons/mqtt.svg" height="48" width="48" alt="MQTT" />&nbsp;&nbsp;
-  <img src="assets/icons/influxdb.svg" height="48" width="48" alt="InfluxDB" />&nbsp;&nbsp;
-  <img src="assets/icons/n8n.svg" height="48" width="48" alt="n8n" />
-</p>
-
-</div>
-
-<br/>
-
-| Domain / Category | Technologies, Frameworks & Protocols |
-| :--- | :--- |
-| **💻 Programming Languages** | `C` &bull; `C++` &bull; `Python` &bull; `TypeScript` &bull; `JavaScript` &bull; `SQL` &bull; `Bash` |
-| **⚡ Embedded Systems & Firmware** | `ESP32` &bull; `ESP8266` &bull; `ESP32-CAM` &bull; `Raspberry Pi` &bull; `Arduino` &bull; `FreeRTOS` &bull; `Dual-Partition OTA Rollback` &bull; `Hardware Timers` &bull; `ISR` &bull; `NVS/EEPROM Flash` &bull; `Wi-Fi Provisioning` |
-| **📡 Protocols & Interfacing** | `LoRa (SX1278)` &bull; `MQTT` &bull; `UART` &bull; `SPI` &bull; `I2C` &bull; `1-Wire` &bull; `WebSockets` &bull; `Logic-Level Shifting` &bull; `Multi-Sensor Integration` &bull; `Relay & Motor Drivers` |
-| **🧠 Edge AI, TinyML & Vision** | `TinyML` &bull; `Edge AI` &bull; `ONNX Runtime` &bull; `OpenCV` &bull; `YOLOv8` &bull; `MediaPipe` &bull; `Explainable AI (TreeSHAP, Grad-CAM)` &bull; `PyTorch` &bull; `Scikit-learn` &bull; `Time-Series Forecasting` &bull; `LLM Integration` |
-| **☁️ Cloud, Backend & Databases** | `AWS` &bull; `FastAPI` &bull; `InfluxDB Cloud` &bull; `Supabase (PostgreSQL)` &bull; `Firebase Realtime DB` &bull; `SQLite` &bull; `React 18/19` &bull; `Tailwind CSS` &bull; `Vite` &bull; `Chart.js` |
-| **🛠️ DevOps, Tools & Automation** | `Git` &bull; `GitHub Actions (CI/CD)` &bull; `Docker` &bull; `Linux / Shell` &bull; `Postman` &bull; `n8n` &bull; `PlatformIO` &bull; `Arduino IDE` &bull; `PyInstaller` &bull; `Serial Debugging` |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Embedded Systems & IoT</h4>
+      <p>
+        <img src="assets/icons/esp32.svg" height="38" width="38" alt="ESP32" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&perline=3" height="38" />&nbsp;
+        <img src="assets/icons/platformio.svg" height="38" width="38" alt="PlatformIO" />&nbsp;
+        <img src="assets/icons/mqtt.svg" height="38" width="38" alt="MQTT" />
+      </p>
+      <p>
+        <code>FreeRTOS</code> <code>ESP32 / ESP8266</code> <code>Dual-Partition OTA</code> <code>NVS Flash</code> <code>LoRa (SX1278)</code> <code>UART / SPI / I2C</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Edge AI & Computer Vision</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4" height="38" />
+      </p>
+      <p>
+        <code>TinyML</code> <code>ONNX Runtime</code> <code>YOLOv8</code> <code>MediaPipe</code> <code>Explainable AI (TreeSHAP)</code> <code>Grad-CAM</code> <code>Time-Series Forecasting</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Programming Languages</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash&perline=6" height="38" />
+      </p>
+      <p>
+        <code>C (Embedded)</code> <code>C++ (Firmware/OOP)</code> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code> <code>Bash</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud, Backend & DevOps</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres,docker,git,githubactions,postman&perline=7" height="38" />&nbsp;
+        <img src="assets/icons/n8n.svg" height="38" width="38" alt="n8n" />
+      </p>
+      <p>
+        <code>FastAPI</code> <code>Supabase (PostgreSQL)</code> <code>Docker</code> <code>CI/CD Actions</code> <code>AWS</code> <code>InfluxDB Cloud</code> <code>React 18/19</code> <code>Tailwind CSS</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
