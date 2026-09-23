@@ -24,78 +24,24 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 💻 Tech Stack:
 
-<div align="left">
+<div align="center">
 
-###  Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
-
-### ⚡ Embedded Systems, Firmware & Protocols
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266" />
-  <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-CAM" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/FreeRTOS-4EAA25?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/PlatformIO-F48041?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
-  <img src="https://img.shields.io/badge/LoRa-FF6600?style=for-the-badge&logo=semtech&logoColor=white" alt="LoRa" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
-</p>
-
-###  Edge AI, Machine Learning & Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/MediaPipe-007FFF?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-Grad--CAM%20%7C%20TreeSHAP-8A2BE2?style=for-the-badge" alt="XAI" />
-</p>
-
-###  Cloud, Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
-
-###  Frontend & Visualization
-<p>
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-</p>
-
-###  DevOps, Automation & Workflow Tools
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,pytorch&perline=9" />
+</a>
+<br/>
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=opencv,fastapi,supabase,postgres,firebase,sqlite,docker,aws,mqtt&perline=9" />
+</a>
+<br/>
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,git,linux,githubactions,postman&perline=9" />
+</a>
 
 </div>
+
 
 ---
 
@@ -212,15 +158,17 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masud744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Masud's GitHub Stats" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud744&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=masud744&theme=tokyonight&hide_border=true" alt="Masud's Streak Stats" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud744&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud744&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud744&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masud744&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masud744&theme=radical&utcOffset=6">
+<img height="169em" src="https://streak-stats.demolab.com/?user=masud744&theme=radical&hide_border=true" alt="Masud's Streak Stats" />
+
 </div>
 
 <br>
