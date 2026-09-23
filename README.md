@@ -186,12 +186,17 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shahriar-alom-masud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shahriar0002@std.uftb.ac.bd" target="_blank"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/8801740071118" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/17eXZPb3cR/" target="_blank"><img src="https://img.shields.io/badge/Facebook-2196F3?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/shahriar_alom_masud" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@ShahriarAlomMasud" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shahriar-alom-masud" target="_blank"><img src="assets/icons/linkedin.svg" height="55" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:shahriar0002@std.uftb.ac.bd" target="_blank"><img src="assets/icons/gmail.svg" height="55" alt="Email" /></a>
+&nbsp;
+<a href="https://wa.me/8801740071118" target="_blank"><img src="assets/icons/whatsapp.svg" height="55" alt="WhatsApp" /></a>
+&nbsp;
+<a href="https://www.facebook.com/share/17eXZPb3cR/" target="_blank"><img src="assets/icons/facebook.svg" height="55" alt="Facebook" /></a>
+&nbsp;
+<a href="https://www.instagram.com/shahriar_alom_masud" target="_blank"><img src="assets/icons/instagram.svg" height="55" alt="Instagram" /></a>
+&nbsp;
+<a href="https://www.youtube.com/@ShahriarAlomMasud" target="_blank"><img src="assets/icons/youtube.svg" height="55" alt="YouTube" /></a>
 
 </div>
 
