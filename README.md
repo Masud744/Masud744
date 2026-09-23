@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Tech Stack & Technical Skills:
+##  Tech Stack & Technical Skills:
 
 <table width="100%">
   <tr>
@@ -37,7 +37,7 @@
         <img src="assets/icons/mqtt.svg" height="38" width="38" alt="MQTT" />
       </p>
       <p>
-        <code>FreeRTOS</code> <code>ESP32 / ESP8266</code> <code>Dual-Partition OTA</code> <code>NVS Flash</code> <code>LoRa (SX1278)</code> <code>UART / SPI / I2C</code>
+        <code>FreeRTOS</code> <code>ESP32 / ESP8266</code> <code>OTA Updates</code> <code>NVS Flash</code> <code>LoRa</code> <code>UART / SPI / I2C</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -46,7 +46,7 @@
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4" height="38" />
       </p>
       <p>
-        <code>TinyML</code> <code>ONNX Runtime</code> <code>YOLOv8</code> <code>MediaPipe</code> <code>Explainable AI (TreeSHAP)</code> <code>Grad-CAM</code> <code>Time-Series Forecasting</code>
+        <code>YOLOv8</code> <code>MediaPipe</code> <code>Explainable AI (TreeSHAP)</code> <code>Grad-CAM</code> <code>Time-Series Forecasting</code> <code>LLM Integration</code>
       </p>
     </td>
   </tr>
@@ -57,7 +57,7 @@
         <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash&perline=6" height="38" />
       </p>
       <p>
-        <code>C (Embedded)</code> <code>C++ (Firmware/OOP)</code> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code> <code>Bash</code>
+        <code>C</code> <code>C++</code> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code> <code>Bash</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -67,7 +67,7 @@
         <img src="assets/icons/n8n.svg" height="38" width="38" alt="n8n" />
       </p>
       <p>
-        <code>FastAPI</code> <code>Supabase (PostgreSQL)</code> <code>Docker</code> <code>CI/CD Actions</code> <code>AWS</code> <code>InfluxDB Cloud</code> <code>React 18/19</code> <code>Tailwind CSS</code>
+        <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code> <code>CI/CD Actions</code> <code>AWS</code> <code>InfluxDB</code> <code>React</code> <code>Tailwind</code>
       </p>
     </td>
   </tr>
@@ -75,7 +75,7 @@
 
 ---
 
-## 🌟 Featured Flagship Projects
+##  Featured Flagship Projects
 
 <table>
   <tr>
