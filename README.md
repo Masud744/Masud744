@@ -15,7 +15,7 @@
 - About Me: **Embedded Systems & Edge AI Engineer** <br>
 -  Value **clarity, ownership, fault-tolerance, and continuous improvement** <br>
 -  Open Source: Author of **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on official **Arduino Library Manager** <br>
--  Skills: **Python, C/C++, FreeRTOS, FastAPI, ONNX Runtime, OpenCV, Docker** <br>
+-  Skills: **Python, C/C++, FreeRTOS, FastAPI, PyTorch, OpenCV, Docker** <br>
 -  Reach Me At: [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) <br>
 -  **Location:** Dhaka, Bangladesh <br>
 
