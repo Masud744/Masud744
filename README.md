@@ -190,29 +190,20 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🌐 Let's Connect & Collaborate!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahriar-alom-masud">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:shahriar0002@std.uftb.ac.bd">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="48" alt="Email" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/8801740071118">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="48" alt="WhatsApp" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/17eXZPb3cR/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="48" alt="Facebook" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/shahriar_alom_masud">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="48" alt="Instagram" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@ShahriarAlomMasud">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="48" alt="YouTube" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shahriar-alom-masud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shahriar0002@std.uftb.ac.bd" target="_blank"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/8801740071118" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/17eXZPb3cR/" target="_blank"><img src="https://img.shields.io/badge/Facebook-2196F3?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/shahriar_alom_masud" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@ShahriarAlomMasud" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+</div>
 
 <p align="center">
   <i>"Passionate about turning hardware signals into intelligent systems and clean code into real-world impact."</i>
 </p>
+
