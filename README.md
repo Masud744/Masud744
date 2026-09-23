@@ -4,7 +4,7 @@
 
 ![Shahriar Alom Masud](assets/banner.png?v=2)
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shahriar-alom-masud">Shahriar Alom Masud</a> <img height="45" alt="Snivy" src="assets/snivy.gif"/></h1>
+<h1 align="center"><img height="40" alt="Snivy" src="assets/snivy.gif"/> Hi there, I'm <a href="https://www.linkedin.com/in/shahriar-alom-masud">Shahriar Alom Masud</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <img align="right" hspace="30"
      src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
