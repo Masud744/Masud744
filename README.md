@@ -28,20 +28,20 @@
 
 <div align="center">
 
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,linux&perline=9" height="65" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,linux&perline=9" /></a>
 <br/>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,anaconda,ros,matlab,cmake,vscode&perline=9" height="65" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,anaconda,ros,matlab,cmake,vscode&perline=9" /></a>
 <br/>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi,aws,supabase,postgres,firebase,sqlite,mongodb,mysql,nodejs&perline=9" height="65" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi,aws,supabase,postgres,firebase,sqlite,mongodb,mysql,nodejs&perline=9" /></a>
 <br/>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,docker,git,githubactions,postman&perline=9" height="65" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,docker,git,githubactions,postman&perline=9" /></a>
 <br/>
 <p align="center">
-  <img src="assets/icons/esp32.svg" height="65" alt="ESP32" />&nbsp;&nbsp;
-  <img src="assets/icons/platformio.svg" height="65" alt="PlatformIO" />&nbsp;&nbsp;
-  <img src="assets/icons/mqtt.svg" height="65" alt="MQTT" />&nbsp;&nbsp;
-  <img src="assets/icons/influxdb.svg" height="65" alt="InfluxDB" />&nbsp;&nbsp;
-  <img src="assets/icons/n8n.svg" height="65" alt="n8n" />
+  <img src="assets/icons/esp32.svg" height="48" width="48" alt="ESP32" />&nbsp;&nbsp;
+  <img src="assets/icons/platformio.svg" height="48" width="48" alt="PlatformIO" />&nbsp;&nbsp;
+  <img src="assets/icons/mqtt.svg" height="48" width="48" alt="MQTT" />&nbsp;&nbsp;
+  <img src="assets/icons/influxdb.svg" height="48" width="48" alt="InfluxDB" />&nbsp;&nbsp;
+  <img src="assets/icons/n8n.svg" height="48" width="48" alt="n8n" />
 </p>
 
 </div>
