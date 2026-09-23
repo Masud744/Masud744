@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=masud744&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Shahriar Alom Masud](assets/banner.png)
+![Shahriar Alom Masud](assets/banner.png?v=2)
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shahriar-alom-masud">Shahriar Alom Masud</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
