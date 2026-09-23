@@ -29,15 +29,15 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,pytorch&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash,arduino,raspberrypi,pytorch&perline=9" height="60" />
 </a>
 <br/>
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=opencv,fastapi,supabase,postgres,firebase,sqlite,docker,aws,mqtt&perline=9" />
+<img src="https://skillicons.dev/icons?i=opencv,fastapi,supabase,postgres,firebase,sqlite,docker,aws,mqtt&perline=9" height="60" />
 </a>
 <br/>
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,git,linux,githubactions,postman&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,git,linux,githubactions,postman&perline=9" height="60" />
 </a>
 
 </div>
