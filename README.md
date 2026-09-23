@@ -11,13 +11,12 @@
      alt="Coding Desk Animation"
      width="320"/>
 
--  **Currently building and developing Myself** <br>
-- About Me: **Embedded Systems & Edge AI Engineer** <br>
--  Value **clarity, ownership, fault-tolerance, and continuous improvement** <br>
--  Open Source: Author of **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on official **Arduino Library Manager** <br>
--  Skills: **Python, C/C++, FreeRTOS, FastAPI, PyTorch, OpenCV, Docker** <br>
--  Reach Me At: [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) <br>
--  **Location:** Dhaka, Bangladesh <br>
+- **Role:** Embedded Systems & Edge AI Engineer <br>
+- **Education:** B.Sc. in IoT & Robotics Engineering — University of Frontier Technology, Bangladesh <br>
+- **Core Values:** Clarity, ownership, fault-tolerance, and continuous improvement <br>
+- **Open Source:** Author of **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on official **Arduino Library Manager** <br>
+- **Collaboration:** Open to high-impact IoT projects, Edge AI research & open-source contributions <br>
+- **Contact:** [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) • Dhaka, Bangladesh <br>
 
 <br>
 <br>
@@ -29,7 +28,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Embedded Systems & IoT</h4>
+      <h4> Embedded Systems & IoT</h4>
       <p>
         <img src="assets/icons/esp32.svg" height="38" width="38" alt="ESP32" />&nbsp;
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&perline=3" height="38" />&nbsp;
@@ -41,7 +40,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 Edge AI & Computer Vision</h4>
+      <h4> Edge AI & Computer Vision</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4" height="38" />
       </p>
@@ -52,7 +51,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Programming Languages</h4>
+      <h4> Programming Languages</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,bash&perline=6" height="38" />
       </p>
@@ -61,7 +60,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ Cloud, Backend & DevOps</h4>
+      <h4> Cloud, Backend & DevOps</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres,docker,git,githubactions,postman&perline=7" height="38" />&nbsp;
         <img src="assets/icons/n8n.svg" height="38" width="38" alt="n8n" />
