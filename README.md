@@ -11,13 +11,13 @@
      alt="Coding Desk Animation"
      width="320"/>
 
-- 🌱 **Currently building and developing Myself** <br>
-- ⚡ About Me: **Embedded Systems & Edge AI Engineer** <br>
-- 💎 Value **clarity, ownership, fault-tolerance, and continuous improvement** <br>
-- 📦 Open Source: Author of **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on official **Arduino Library Manager** <br>
-- 📈 Skills: **Python, C/C++, FreeRTOS, FastAPI, ONNX Runtime, OpenCV, Docker** <br>
-- 📫 Reach Me At: [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) <br>
-- 📍 **Location:** Dhaka, Bangladesh <br>
+-  **Currently building and developing Myself** <br>
+- About Me: **Embedded Systems & Edge AI Engineer** <br>
+-  Value **clarity, ownership, fault-tolerance, and continuous improvement** <br>
+-  Open Source: Author of **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on official **Arduino Library Manager** <br>
+-  Skills: **Python, C/C++, FreeRTOS, FastAPI, ONNX Runtime, OpenCV, Docker** <br>
+-  Reach Me At: [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) <br>
+-  **Location:** Dhaka, Bangladesh <br>
 
 <br>
 <br>
@@ -28,7 +28,7 @@
 
 <div align="left">
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
 </p>
 
-### 🧠 Edge AI, Machine Learning & Computer Vision
+###  Edge AI, Machine Learning & Computer Vision
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Explainable%20AI-Grad--CAM%20%7C%20TreeSHAP-8A2BE2?style=for-the-badge" alt="XAI" />
 </p>
 
-### ☁️ Cloud, Backend & Databases
+###  Cloud, Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
-### 🎨 Frontend & Visualization
+###  Frontend & Visualization
 <p>
   <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
-### ⚙️ DevOps, Automation & Workflow Tools
+###  DevOps, Automation & Workflow Tools
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -99,7 +99,7 @@
 
 ---
 
-## 🚀 Featured Flagship Projects
+##  Featured Flagship Projects
 
 <table>
   <tr>
@@ -116,7 +116,7 @@
       <p>🔗 <a href="https://github.com/Masud744/SmartProv"><b>View Repository</b></a> &bull; <a href="https://github.com/Masud744/esp32-smartprov-github-ota"><b>OTA Companion System</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/Masud744/ProctorAI">ProctorAI</a></h3>
+      <h3> <a href="https://github.com/Masud744/ProctorAI">ProctorAI</a></h3>
       <p><b>Full-Stack AI Classroom & Exam Proctoring Platform</b></p>
       <p>Real-time computer vision platform tracking eye gaze (EAR), mouth ratio (MAR), phone presence, and 3D head pose via solvePnP at 30–60 FPS. Validated across <b>35+ students and 3,500+ telemetry records</b> with FastAPI and Supabase PostgreSQL backend.</p>
       <p>
@@ -125,7 +125,7 @@
         <img src="https://img.shields.io/badge/YOLOv8-FastAPI-teal?style=flat-square" />
         <img src="https://img.shields.io/badge/Supabase-PostgreSQL-green?style=flat-square" />
       </p>
-      <p>🔗 <a href="https://github.com/Masud744/ProctorAI"><b>View Repository</b></a> &bull; 🌐 <a href="https://ai-classroom-exam-monitoring.netlify.app"><b>Live Dashboard</b></a></p>
+      <p>🔗 <a href="https://github.com/Masud744/ProctorAI"><b>View Repository</b></a> &bull;  <a href="https://ai-classroom-exam-monitoring.netlify.app"><b>Live Dashboard</b></a></p>
     </td>
   </tr>
 
