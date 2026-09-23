@@ -18,7 +18,21 @@
 - **Core Values:** Clarity, ownership, fault-tolerance, and continuous improvement <br>
 - **Contact:** [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) • Dhaka, Bangladesh <br>
 
+<br clear="right"/>
 <br>
+
+<details>
+<summary><b>A Perspective on Failure & Growth</b></summary>
+<br>
+
+**Bad News:**
+> No matter how hard you try to protect yourself, one day, you will fail.
+
+**Good News:**
+> When you fail, each passing day, it opens you up to new possibilities, often helping you emerge as the best version of you.
+
+</details>
+
 <br>
 
 ---
