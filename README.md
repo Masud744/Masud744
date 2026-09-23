@@ -1,39 +1,26 @@
-<h1 align="center">Hi there, I'm Shahriar Alom Masud 👋</h1>
-
-<p align="center">
-  <b>Embedded Systems & Edge AI Engineer &nbsp;|&nbsp; Backend & Applied AI Developer</b><br>
-  <sub>B.Sc. (Engg.) in Internet of Things & Robotics Engineering &bull; University of Frontier Technology, Bangladesh</sub>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=masud744&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Masud744">
-    <img src="https://komarev.com/ghpvc/?username=masud744&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Masud744?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-40+-blue?style=flat-square&logo=github" alt="Repositories" />
-  </a>
-  <a href="https://github.com/Masud744/SmartProv">
-    <img src="https://img.shields.io/badge/Arduino_Registry-SmartProv_v2.1.3-teal?style=flat-square&logo=arduino" alt="Arduino Registry" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahriar-alom-masud">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+![Shahriar Alom Masud](assets/banner.png)
 
----
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shahriar-alom-masud">Shahriar Alom Masud</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-## ⚡ About Me
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Coding Desk Animation"
+     width="320"/>
 
-<img align="right" height="190" src="assets/profile.gif" alt="Profile Animation" />
+- 🌱 **Currently building and developing Myself** <br>
+- ⚡ About Me: **Embedded Systems & Edge AI Engineer** <br>
+- 💎 Value **clarity, ownership, fault-tolerance, and continuous improvement** <br>
+- 📦 Open Source: Author of **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on official **Arduino Library Manager** <br>
+- 📈 Skills: **Python, C/C++, FreeRTOS, FastAPI, ONNX Runtime, OpenCV, Docker** <br>
+- 📫 Reach Me At: [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) <br>
+- 📍 **Location:** Dhaka, Bangladesh <br>
 
-- 🎓 **Undergraduate Researcher & Engineer**: Pursuing B.Sc. (Engg.) in **IoT & Robotics Engineering** at the *University of Frontier Technology, Bangladesh (UFTB)*.
-- 📦 **Open Source Author**: Created and published **[SmartProv (v2.1.3)](https://github.com/Masud744/SmartProv)** on the official **Arduino Library Manager**, enabling zero-friction captive-portal Wi-Fi provisioning and fail-safe recovery for ESP32/ESP8266 devices.
-- 🧠 **Edge AI & Computer Vision**: Architecting low-latency inference pipelines with **ONNX Runtime, YOLOv8, MediaPipe Face Mesh**, and **PyTorch**, backed by Explainable AI (**Grad-CAM, TreeSHAP**).
-- 🌐 **Backend & Telemetry Systems**: Developing asynchronous RESTful APIs, WebSockets, and high-throughput telemetry pipelines using **FastAPI, Supabase (PostgreSQL), InfluxDB Cloud**, and **Docker**.
-- 🤖 **Automation & Workflow Engineering**: Crafting end-to-end event-driven pipelines in **n8n** (author of a popular 11⭐ LinkedIn automation system).
-- 🏆 **Leadership & Community**: Head of Membership Development at **UFTB Robotics Club** & Segment Leader for the **RoboFusion 1.0 Robo Soccer Championship**.
-- 💬 **Ask Me About**: Microcontrollers (ESP32, FreeRTOS), Computer Vision (ONNX Runtime, YOLOv8, MediaPipe), Explainable AI (TreeSHAP, Grad-CAM), and Asynchronous Telemetry Backends.
-- 📫 **Get in Touch**: [shahriar0002@std.uftb.ac.bd](mailto:shahriar0002@std.uftb.ac.bd) &bull; [LinkedIn](https://www.linkedin.com/in/shahriar-alom-masud)
+<br>
+<br>
 
 ---
 
